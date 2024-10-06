@@ -2,9 +2,9 @@
 // https://github.com/manna-harbour/miryoku
 
 #define MIRYOKU_ALPHAS_QWERTY
-#defone MIRYOKU_EXTRA_COLEMAKDH
+#define MIRYOKU_EXTRA_COLEMAKDH
 #define MIRYOKU_TAP_QWERTY
-#defone MIRYOKU_CLIPBOARD_MAC
+#define MIRYOKU_CLIPBOARD_MAC
 #define MIRYOKU_NAV_VI
 
 #define MIRYOKU_LAYER_BASE \
